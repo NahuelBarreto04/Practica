@@ -16,3 +16,7 @@ thead {
   margin: 0%;
   border: black solid 1px;
 }
+
+td {
+  background-color: red;
+}
